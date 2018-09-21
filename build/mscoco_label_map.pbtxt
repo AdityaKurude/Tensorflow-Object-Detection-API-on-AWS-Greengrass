@@ -1,0 +1,30 @@
+item {
+  id: 1
+  name: 'truck'
+}
+item {
+  id: 2
+  name: 'woman'
+}
+item {
+  id: 3
+  name: 'forklift'
+}
+item {
+  id: 4
+  name: 'cyclist'
+}
+item {
+  id: 5
+  name: 'cargo_train'
+}
+
+item {
+  id: 6
+  name: 'cargo'
+}
+
+item {
+  id: 7
+  name: 'speed_train'
+}
