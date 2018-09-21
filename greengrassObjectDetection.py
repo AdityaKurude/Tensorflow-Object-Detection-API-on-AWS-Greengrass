@@ -23,7 +23,7 @@ import glob
 client = greengrasssdk.client('iot-data')
 
 # Path in the green-grass environment from where we can access models deploed from s3 bucket
-PATH_TO_CKPT = '/greengrass-machine-learning/tf/legotrain/frozen_inference_graph.pb'
+PATH_TO_CKPT = '/greengrass-machine-learning/tf/frozen_inference_graph.pb'
 
 # label file containing class categories
 PATH_TO_LABELS = 'build/mscoco_label_map.pbtxt'
